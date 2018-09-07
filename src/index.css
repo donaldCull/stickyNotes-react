@@ -46,6 +46,10 @@ body {
   background-color: red;
 }
 
+#add {
+  width: 50px;
+}
+
 .buttonBar {
 
 }
